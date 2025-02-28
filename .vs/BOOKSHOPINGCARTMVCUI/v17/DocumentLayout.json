@@ -1,0 +1,1337 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|c:\\users\\admin\\source\\repos\\bookshopingcartmvcui\\bookshopingcartmvcui\\bookshopingcartmvcui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|solutionrelative:bookshopingcartmvcui\\bookshopingcartmvcui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|c:\\users\\admin\\source\\repos\\bookshopingcartmvcui\\bookshopingcartmvcui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|solutionrelative:bookshopingcartmvcui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|c:\\users\\admin\\source\\repos\\bookshopingcartmvcui\\bookshopingcartmvcui\\views\\adminoperations\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|solutionrelative:bookshopingcartmvcui\\views\\adminoperations\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|c:\\users\\admin\\source\\repos\\bookshopingcartmvcui\\bookshopingcartmvcui\\controllers\\adminoperationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|solutionrelative:bookshopingcartmvcui\\controllers\\adminoperationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|c:\\users\\admin\\source\\repos\\bookshopingcartmvcui\\bookshopingcartmvcui\\views\\stock\\manangestock.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|solutionrelative:bookshopingcartmvcui\\views\\stock\\manangestock.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|c:\\users\\admin\\source\\repos\\bookshopingcartmvcui\\bookshopingcartmvcui\\views\\stock\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|solutionrelative:bookshopingcartmvcui\\views\\stock\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|c:\\users\\admin\\source\\repos\\bookshopingcartmvcui\\bookshopingcartmvcui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|solutionrelative:bookshopingcartmvcui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|c:\\users\\admin\\source\\repos\\bookshopingcartmvcui\\bookshopingcartmvcui\\views\\genre\\updategenre.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|solutionrelative:bookshopingcartmvcui\\views\\genre\\updategenre.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|c:\\users\\admin\\source\\repos\\bookshopingcartmvcui\\bookshopingcartmvcui\\views\\genre\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|solutionrelative:bookshopingcartmvcui\\views\\genre\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|c:\\users\\admin\\source\\repos\\bookshopingcartmvcui\\bookshopingcartmvcui\\views\\genre\\addgenre.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|solutionrelative:bookshopingcartmvcui\\views\\genre\\addgenre.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|c:\\users\\admin\\source\\repos\\bookshopingcartmvcui\\bookshopingcartmvcui\\views\\book\\updatebook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|solutionrelative:bookshopingcartmvcui\\views\\book\\updatebook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|c:\\users\\admin\\source\\repos\\bookshopingcartmvcui\\bookshopingcartmvcui\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|solutionrelative:bookshopingcartmvcui\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|c:\\users\\admin\\source\\repos\\bookshopingcartmvcui\\bookshopingcartmvcui\\views\\book\\addbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|solutionrelative:bookshopingcartmvcui\\views\\book\\addbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|c:\\users\\admin\\source\\repos\\bookshopingcartmvcui\\bookshopingcartmvcui\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|solutionrelative:bookshopingcartmvcui\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|c:\\users\\admin\\source\\repos\\bookshopingcartmvcui\\bookshopingcartmvcui\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|solutionrelative:bookshopingcartmvcui\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|c:\\users\\admin\\source\\repos\\bookshopingcartmvcui\\bookshopingcartmvcui\\views\\shared\\_adminlayout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|solutionrelative:bookshopingcartmvcui\\views\\shared\\_adminlayout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|c:\\users\\admin\\source\\repos\\bookshopingcartmvcui\\bookshopingcartmvcui\\views\\adminoperations\\allorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|solutionrelative:bookshopingcartmvcui\\views\\adminoperations\\allorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|c:\\users\\admin\\source\\repos\\bookshopingcartmvcui\\bookshopingcartmvcui\\models\\dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|solutionrelative:bookshopingcartmvcui\\models\\dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|c:\\users\\admin\\source\\repos\\bookshopingcartmvcui\\bookshopingcartmvcui\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|solutionrelative:bookshopingcartmvcui\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|c:\\users\\admin\\source\\repos\\bookshopingcartmvcui\\bookshopingcartmvcui\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|solutionrelative:bookshopingcartmvcui\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|c:\\users\\admin\\source\\repos\\bookshopingcartmvcui\\bookshopingcartmvcui\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|solutionrelative:bookshopingcartmvcui\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|c:\\users\\admin\\source\\repos\\bookshopingcartmvcui\\bookshopingcartmvcui\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|solutionrelative:bookshopingcartmvcui\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|c:\\users\\admin\\source\\repos\\bookshopingcartmvcui\\bookshopingcartmvcui\\shared\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|solutionrelative:bookshopingcartmvcui\\shared\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|c:\\users\\admin\\source\\repos\\bookshopingcartmvcui\\bookshopingcartmvcui\\controllers\\genrecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|solutionrelative:bookshopingcartmvcui\\controllers\\genrecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|c:\\users\\admin\\source\\repos\\bookshopingcartmvcui\\bookshopingcartmvcui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|solutionrelative:bookshopingcartmvcui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|c:\\users\\admin\\source\\repos\\bookshopingcartmvcui\\bookshopingcartmvcui\\models\\dtos\\genredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|solutionrelative:bookshopingcartmvcui\\models\\dtos\\genredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|c:\\users\\admin\\source\\repos\\bookshopingcartmvcui\\bookshopingcartmvcui\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|solutionrelative:bookshopingcartmvcui\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|c:\\users\\admin\\source\\repos\\bookshopingcartmvcui\\bookshopingcartmvcui\\repositories\\genrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|solutionrelative:bookshopingcartmvcui\\repositories\\genrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|c:\\users\\admin\\source\\repos\\bookshopingcartmvcui\\bookshopingcartmvcui\\repositories\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|solutionrelative:bookshopingcartmvcui\\repositories\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|c:\\users\\admin\\source\\repos\\bookshopingcartmvcui\\bookshopingcartmvcui\\repositories\\homerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|solutionrelative:bookshopingcartmvcui\\repositories\\homerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|c:\\users\\admin\\source\\repos\\bookshopingcartmvcui\\bookshopingcartmvcui\\views\\shared\\_notifications.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|solutionrelative:bookshopingcartmvcui\\views\\shared\\_notifications.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|c:\\users\\admin\\source\\repos\\bookshopingcartmvcui\\bookshopingcartmvcui\\repositories\\userorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|solutionrelative:bookshopingcartmvcui\\repositories\\userorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|c:\\users\\admin\\source\\repos\\bookshopingcartmvcui\\bookshopingcartmvcui\\views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|solutionrelative:bookshopingcartmvcui\\views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|c:\\users\\admin\\source\\repos\\bookshopingcartmvcui\\bookshopingcartmvcui\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|solutionrelative:bookshopingcartmvcui\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|c:\\users\\admin\\source\\repos\\bookshopingcartmvcui\\bookshopingcartmvcui\\models\\dtos\\checkoutmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|solutionrelative:bookshopingcartmvcui\\models\\dtos\\checkoutmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|c:\\users\\admin\\source\\repos\\bookshopingcartmvcui\\bookshopingcartmvcui\\repositories\\icartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|solutionrelative:bookshopingcartmvcui\\repositories\\icartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|c:\\users\\admin\\source\\repos\\bookshopingcartmvcui\\bookshopingcartmvcui\\views\\cart\\getusercart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|solutionrelative:bookshopingcartmvcui\\views\\cart\\getusercart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|c:\\users\\admin\\source\\repos\\bookshopingcartmvcui\\bookshopingcartmvcui\\models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|solutionrelative:bookshopingcartmvcui\\models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|c:\\users\\admin\\source\\repos\\bookshopingcartmvcui\\bookshopingcartmvcui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|solutionrelative:bookshopingcartmvcui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|c:\\users\\admin\\source\\repos\\bookshopingcartmvcui\\bookshopingcartmvcui\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|solutionrelative:bookshopingcartmvcui\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|c:\\users\\admin\\source\\repos\\bookshopingcartmvcui\\bookshopingcartmvcui\\repositories\\stockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|solutionrelative:bookshopingcartmvcui\\repositories\\stockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|c:\\users\\admin\\source\\repos\\bookshopingcartmvcui\\bookshopingcartmvcui\\models\\dtos\\stockdisplaymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|solutionrelative:bookshopingcartmvcui\\models\\dtos\\stockdisplaymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|c:\\users\\admin\\source\\repos\\bookshopingcartmvcui\\bookshopingcartmvcui\\models\\dtos\\stockdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|solutionrelative:bookshopingcartmvcui\\models\\dtos\\stockdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|c:\\users\\admin\\source\\repos\\bookshopingcartmvcui\\bookshopingcartmvcui\\models\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|solutionrelative:bookshopingcartmvcui\\models\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|c:\\users\\admin\\source\\repos\\bookshopingcartmvcui\\bookshopingcartmvcui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|solutionrelative:bookshopingcartmvcui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|c:\\users\\admin\\source\\repos\\bookshopingcartmvcui\\bookshopingcartmvcui\\data\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|solutionrelative:bookshopingcartmvcui\\data\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|c:\\users\\admin\\source\\repos\\bookshopingcartmvcui\\bookshopingcartmvcui\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|solutionrelative:bookshopingcartmvcui\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|c:\\users\\admin\\source\\repos\\bookshopingcartmvcui\\bookshopingcartmvcui\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|solutionrelative:bookshopingcartmvcui\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|c:\\users\\admin\\source\\repos\\bookshopingcartmvcui\\bookshopingcartmvcui\\constants\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|solutionrelative:bookshopingcartmvcui\\constants\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|c:\\users\\admin\\source\\repos\\bookshopingcartmvcui\\bookshopingcartmvcui\\views\\userorder\\userorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|solutionrelative:bookshopingcartmvcui\\views\\userorder\\userorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|c:\\users\\admin\\source\\repos\\bookshopingcartmvcui\\bookshopingcartmvcui\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|solutionrelative:bookshopingcartmvcui\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|c:\\users\\admin\\source\\repos\\bookshopingcartmvcui\\bookshopingcartmvcui\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|solutionrelative:bookshopingcartmvcui\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|c:\\users\\admin\\source\\repos\\bookshopingcartmvcui\\bookshopingcartmvcui\\models\\dtos\\orderdetailmodaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|solutionrelative:bookshopingcartmvcui\\models\\dtos\\orderdetailmodaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|c:\\users\\admin\\source\\repos\\bookshopingcartmvcui\\bookshopingcartmvcui\\models\\dtos\\bookdisplaymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|solutionrelative:bookshopingcartmvcui\\models\\dtos\\bookdisplaymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|c:\\users\\admin\\source\\repos\\bookshopingcartmvcui\\bookshopingcartmvcui\\views\\adminoperations\\updateorderstatus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|solutionrelative:bookshopingcartmvcui\\views\\adminoperations\\updateorderstatus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|c:\\users\\admin\\source\\repos\\bookshopingcartmvcui\\bookshopingcartmvcui\\views\\adminoperations\\_orderdetailmodal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|solutionrelative:bookshopingcartmvcui\\views\\adminoperations\\_orderdetailmodal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|c:\\users\\admin\\source\\repos\\bookshopingcartmvcui\\bookshopingcartmvcui\\repositories\\iuserorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|solutionrelative:bookshopingcartmvcui\\repositories\\iuserorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|c:\\users\\admin\\source\\repos\\bookshopingcartmvcui\\bookshopingcartmvcui\\models\\cartdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|solutionrelative:bookshopingcartmvcui\\models\\cartdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|c:\\users\\admin\\source\\repos\\bookshopingcartmvcui\\bookshopingcartmvcui\\models\\dtos\\updateorderstatusmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|solutionrelative:bookshopingcartmvcui\\models\\dtos\\updateorderstatusmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|c:\\users\\admin\\source\\repos\\bookshopingcartmvcui\\bookshopingcartmvcui\\repositories\\ihomerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|solutionrelative:bookshopingcartmvcui\\repositories\\ihomerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|c:\\users\\admin\\source\\repos\\bookshopingcartmvcui\\bookshopingcartmvcui\\constants\\paymentmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|solutionrelative:bookshopingcartmvcui\\constants\\paymentmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|c:\\users\\admin\\source\\repos\\bookshopingcartmvcui\\bookshopingcartmvcui\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|solutionrelative:bookshopingcartmvcui\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|c:\\users\\admin\\source\\repos\\bookshopingcartmvcui\\bookshopingcartmvcui\\views\\cart\\orderfailure.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|solutionrelative:bookshopingcartmvcui\\views\\cart\\orderfailure.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|c:\\users\\admin\\source\\repos\\bookshopingcartmvcui\\bookshopingcartmvcui\\views\\cart\\ordersuccess.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|solutionrelative:bookshopingcartmvcui\\views\\cart\\ordersuccess.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|c:\\users\\admin\\source\\repos\\bookshopingcartmvcui\\bookshopingcartmvcui\\areas\\identity\\pages\\account\\manage\\_managenav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|solutionrelative:bookshopingcartmvcui\\areas\\identity\\pages\\account\\manage\\_managenav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|c:\\users\\admin\\source\\repos\\bookshopingcartmvcui\\bookshopingcartmvcui\\controllers\\userordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|solutionrelative:bookshopingcartmvcui\\controllers\\userordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|c:\\users\\admin\\source\\repos\\bookshopingcartmvcui\\bookshopingcartmvcui\\data\\migrations\\20250221120534_xyz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|solutionrelative:bookshopingcartmvcui\\data\\migrations\\20250221120534_xyz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|c:\\users\\admin\\source\\repos\\bookshopingcartmvcui\\bookshopingcartmvcui\\data\\migrations\\20250217142618_add-authorname-to-book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|solutionrelative:bookshopingcartmvcui\\data\\migrations\\20250217142618_add-authorname-to-book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|c:\\users\\admin\\source\\repos\\bookshopingcartmvcui\\bookshopingcartmvcui\\data\\migrations\\20250215115528_added statuscode in orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|solutionrelative:bookshopingcartmvcui\\data\\migrations\\20250215115528_added statuscode in orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|c:\\users\\admin\\source\\repos\\bookshopingcartmvcui\\bookshopingcartmvcui\\data\\migrations\\20250214165648_added-tables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|solutionrelative:bookshopingcartmvcui\\data\\migrations\\20250214165648_added-tables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|c:\\users\\admin\\source\\repos\\bookshopingcartmvcui\\bookshopingcartmvcui\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|solutionrelative:bookshopingcartmvcui\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|c:\\users\\admin\\source\\repos\\bookshopingcartmvcui\\bookshopingcartmvcui\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|solutionrelative:bookshopingcartmvcui\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|c:\\users\\admin\\source\\repos\\bookshopingcartmvcui\\bookshopingcartmvcui\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|solutionrelative:bookshopingcartmvcui\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|c:\\users\\admin\\source\\repos\\bookshopingcartmvcui\\bookshopingcartmvcui\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|solutionrelative:bookshopingcartmvcui\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|c:\\users\\admin\\source\\repos\\bookshopingcartmvcui\\bookshopingcartmvcui\\models\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|solutionrelative:bookshopingcartmvcui\\models\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|c:\\users\\admin\\source\\repos\\bookshopingcartmvcui\\bookshopingcartmvcui\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|solutionrelative:bookshopingcartmvcui\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|c:\\users\\admin\\source\\repos\\bookshopingcartmvcui\\bookshopingcartmvcui\\data\\migrations\\20250222150216_mig3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|solutionrelative:bookshopingcartmvcui\\data\\migrations\\20250222150216_mig3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|c:\\users\\admin\\source\\repos\\bookshopingcartmvcui\\bookshopingcartmvcui\\data\\migrations\\20250225061552_mig-stock-mgt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|solutionrelative:bookshopingcartmvcui\\data\\migrations\\20250225061552_mig-stock-mgt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Views\\Stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BOOKSHOPINGCARTMVCUI\\Views\\Stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|c:\\users\\admin\\source\\repos\\bookshopingcartmvcui\\bookshopingcartmvcui\\data\\migrations\\20250226184420_renamegenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|solutionrelative:bookshopingcartmvcui\\data\\migrations\\20250226184420_renamegenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|c:\\users\\admin\\source\\repos\\bookshopingcartmvcui\\bookshopingcartmvcui\\data\\migrations\\20250226182806_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|solutionrelative:bookshopingcartmvcui\\data\\migrations\\20250226182806_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|c:\\users\\admin\\source\\repos\\bookshopingcartmvcui\\bookshopingcartmvcui\\data\\migrations\\20250226170344_updateorderstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7EE03E-8DC0-429D-A79A-5274A2868296}|BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj|solutionrelative:bookshopingcartmvcui\\data\\migrations\\20250226170344_updateorderstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BOOKSHOPINGCARTMVCUI\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BOOKSHOPINGCARTMVCUI\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-15T16:32:49.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Views\\Stock\\Index.cshtml",
+              "RelativeDocumentMoniker": "BOOKSHOPINGCARTMVCUI\\Views\\Stock\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Views\\Stock\\Index.cshtml",
+              "RelativeToolTip": "BOOKSHOPINGCARTMVCUI\\Views\\Stock\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T07:13:52.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ManangeStock.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Views\\Stock\\ManangeStock.cshtml",
+              "RelativeDocumentMoniker": "BOOKSHOPINGCARTMVCUI\\Views\\Stock\\ManangeStock.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Views\\Stock\\ManangeStock.cshtml",
+              "RelativeToolTip": "BOOKSHOPINGCARTMVCUI\\Views\\Stock\\ManangeStock.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T09:15:10.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Views\\Book\\Index.cshtml",
+              "RelativeDocumentMoniker": "BOOKSHOPINGCARTMVCUI\\Views\\Book\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Views\\Book\\Index.cshtml",
+              "RelativeToolTip": "BOOKSHOPINGCARTMVCUI\\Views\\Book\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T12:36:09.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AddBook.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Views\\Book\\AddBook.cshtml",
+              "RelativeDocumentMoniker": "BOOKSHOPINGCARTMVCUI\\Views\\Book\\AddBook.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Views\\Book\\AddBook.cshtml",
+              "RelativeToolTip": "BOOKSHOPINGCARTMVCUI\\Views\\Book\\AddBook.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T12:48:30.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BOOKSHOPINGCARTMVCUI\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BOOKSHOPINGCARTMVCUI\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAIAwwB4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-15T13:58:02.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BOOKSHOPINGCARTMVCUI.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj",
+              "RelativeDocumentMoniker": "BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj",
+              "RelativeToolTip": "BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwA4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-15T12:00:00.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Views\\AdminOperations\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "BOOKSHOPINGCARTMVCUI\\Views\\AdminOperations\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Views\\AdminOperations\\Dashboard.cshtml",
+              "RelativeToolTip": "BOOKSHOPINGCARTMVCUI\\Views\\AdminOperations\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T16:52:49.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpdateGenre.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Views\\Genre\\UpdateGenre.cshtml",
+              "RelativeDocumentMoniker": "BOOKSHOPINGCARTMVCUI\\Views\\Genre\\UpdateGenre.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Views\\Genre\\UpdateGenre.cshtml",
+              "RelativeToolTip": "BOOKSHOPINGCARTMVCUI\\Views\\Genre\\UpdateGenre.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-26T18:12:49.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminOperationsController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Controllers\\AdminOperationsController.cs",
+              "RelativeDocumentMoniker": "BOOKSHOPINGCARTMVCUI\\Controllers\\AdminOperationsController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Controllers\\AdminOperationsController.cs",
+              "RelativeToolTip": "BOOKSHOPINGCARTMVCUI\\Controllers\\AdminOperationsController.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAIAwwFEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T06:05:27.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Views\\Genre\\Index.cshtml",
+              "RelativeDocumentMoniker": "BOOKSHOPINGCARTMVCUI\\Views\\Genre\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Views\\Genre\\Index.cshtml",
+              "RelativeToolTip": "BOOKSHOPINGCARTMVCUI\\Views\\Genre\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-26T17:57:01.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddGenre.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Views\\Genre\\AddGenre.cshtml",
+              "RelativeDocumentMoniker": "BOOKSHOPINGCARTMVCUI\\Views\\Genre\\AddGenre.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Views\\Genre\\AddGenre.cshtml",
+              "RelativeToolTip": "BOOKSHOPINGCARTMVCUI\\Views\\Genre\\AddGenre.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-26T18:08:12.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UpdateBook.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Views\\Book\\UpdateBook.cshtml",
+              "RelativeDocumentMoniker": "BOOKSHOPINGCARTMVCUI\\Views\\Book\\UpdateBook.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Views\\Book\\UpdateBook.cshtml",
+              "RelativeToolTip": "BOOKSHOPINGCARTMVCUI\\Views\\Book\\UpdateBook.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T12:51:03.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "BOOKSHOPINGCARTMVCUI\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "BOOKSHOPINGCARTMVCUI\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAACMAAAAAAAAAAIAwwBIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T12:36:24.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "BOOKSHOPINGCARTMVCUI\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "BOOKSHOPINGCARTMVCUI\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAIAwwA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-15T13:58:31.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_AdminLayout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Views\\Shared\\_AdminLayout.cshtml.css",
+              "RelativeDocumentMoniker": "BOOKSHOPINGCARTMVCUI\\Views\\Shared\\_AdminLayout.cshtml.css",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Views\\Shared\\_AdminLayout.cshtml.css",
+              "RelativeToolTip": "BOOKSHOPINGCARTMVCUI\\Views\\Shared\\_AdminLayout.cshtml.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-27T14:36:27.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AllOrders.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Views\\AdminOperations\\AllOrders.cshtml",
+              "RelativeDocumentMoniker": "BOOKSHOPINGCARTMVCUI\\Views\\AdminOperations\\AllOrders.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Views\\AdminOperations\\AllOrders.cshtml",
+              "RelativeToolTip": "BOOKSHOPINGCARTMVCUI\\Views\\AdminOperations\\AllOrders.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-23T06:30:48.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Models\\Genre.cs",
+              "RelativeDocumentMoniker": "BOOKSHOPINGCARTMVCUI\\Models\\Genre.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Models\\Genre.cs",
+              "RelativeToolTip": "BOOKSHOPINGCARTMVCUI\\Models\\Genre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAArwAMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T11:31:45.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "BOOKSHOPINGCARTMVCUI\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Models\\Book.cs",
+              "RelativeToolTip": "BOOKSHOPINGCARTMVCUI\\Models\\Book.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAjwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T09:55:30.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BookDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Models\\DTOs\\BookDTO.cs",
+              "RelativeDocumentMoniker": "BOOKSHOPINGCARTMVCUI\\Models\\DTOs\\BookDTO.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Models\\DTOs\\BookDTO.cs",
+              "RelativeToolTip": "BOOKSHOPINGCARTMVCUI\\Models\\DTOs\\BookDTO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIA6wA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T12:01:43.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Repositories\\BookRepository.cs",
+              "RelativeDocumentMoniker": "BOOKSHOPINGCARTMVCUI\\Repositories\\BookRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Repositories\\BookRepository.cs",
+              "RelativeToolTip": "BOOKSHOPINGCARTMVCUI\\Repositories\\BookRepository.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAjwAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T12:22:34.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "BOOKSHOPINGCARTMVCUI\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Controllers\\BookController.cs",
+              "RelativeToolTip": "BOOKSHOPINGCARTMVCUI\\Controllers\\BookController.cs",
+              "ViewState": "AgIAAKoAAAAAAAAAAADgv5oAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T12:30:08.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FileService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Shared\\FileService.cs",
+              "RelativeDocumentMoniker": "BOOKSHOPINGCARTMVCUI\\Shared\\FileService.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Shared\\FileService.cs",
+              "RelativeToolTip": "BOOKSHOPINGCARTMVCUI\\Shared\\FileService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T12:12:00.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GenreController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Controllers\\GenreController.cs",
+              "RelativeDocumentMoniker": "BOOKSHOPINGCARTMVCUI\\Controllers\\GenreController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Controllers\\GenreController.cs",
+              "RelativeToolTip": "BOOKSHOPINGCARTMVCUI\\Controllers\\GenreController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T17:38:48.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "HomeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Repositories\\HomeRepository.cs",
+              "RelativeDocumentMoniker": "BOOKSHOPINGCARTMVCUI\\Repositories\\HomeRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Repositories\\HomeRepository.cs",
+              "RelativeToolTip": "BOOKSHOPINGCARTMVCUI\\Repositories\\HomeRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAIAwwBsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T16:43:49.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Program.cs",
+              "RelativeDocumentMoniker": "BOOKSHOPINGCARTMVCUI\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Program.cs",
+              "RelativeToolTip": "BOOKSHOPINGCARTMVCUI\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAADgvxoAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T13:26:18.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GenreDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Models\\DTOs\\GenreDTO.cs",
+              "RelativeDocumentMoniker": "BOOKSHOPINGCARTMVCUI\\Models\\DTOs\\GenreDTO.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Models\\DTOs\\GenreDTO.cs",
+              "RelativeToolTip": "BOOKSHOPINGCARTMVCUI\\Models\\DTOs\\GenreDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T17:46:19.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "BOOKSHOPINGCARTMVCUI\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "BOOKSHOPINGCARTMVCUI\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T14:45:15.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "GenreRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Repositories\\GenreRepository.cs",
+              "RelativeDocumentMoniker": "BOOKSHOPINGCARTMVCUI\\Repositories\\GenreRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Repositories\\GenreRepository.cs",
+              "RelativeToolTip": "BOOKSHOPINGCARTMVCUI\\Repositories\\GenreRepository.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwCcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T17:30:29.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Repositories\\CartRepository.cs",
+              "RelativeDocumentMoniker": "BOOKSHOPINGCARTMVCUI\\Repositories\\CartRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Repositories\\CartRepository.cs",
+              "RelativeToolTip": "BOOKSHOPINGCARTMVCUI\\Repositories\\CartRepository.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAUwIsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T14:25:18.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "20250226184420_RenameGenre.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Data\\Migrations\\20250226184420_RenameGenre.cs",
+              "RelativeDocumentMoniker": "BOOKSHOPINGCARTMVCUI\\Data\\Migrations\\20250226184420_RenameGenre.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Data\\Migrations\\20250226184420_RenameGenre.cs",
+              "RelativeToolTip": "BOOKSHOPINGCARTMVCUI\\Data\\Migrations\\20250226184420_RenameGenre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T18:44:20.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "_Notifications.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Views\\Shared\\_Notifications.cshtml",
+              "RelativeDocumentMoniker": "BOOKSHOPINGCARTMVCUI\\Views\\Shared\\_Notifications.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Views\\Shared\\_Notifications.cshtml",
+              "RelativeToolTip": "BOOKSHOPINGCARTMVCUI\\Views\\Shared\\_Notifications.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T09:18:54.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "20250226182806_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Data\\Migrations\\20250226182806_InitialCreate.cs",
+              "RelativeDocumentMoniker": "BOOKSHOPINGCARTMVCUI\\Data\\Migrations\\20250226182806_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Data\\Migrations\\20250226182806_InitialCreate.cs",
+              "RelativeToolTip": "BOOKSHOPINGCARTMVCUI\\Data\\Migrations\\20250226182806_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T18:28:06.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "20250226170344_UpdateOrdersTable.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Data\\Migrations\\20250226170344_UpdateOrdersTable.cs",
+              "RelativeDocumentMoniker": "BOOKSHOPINGCARTMVCUI\\Data\\Migrations\\20250226170344_UpdateOrdersTable.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Data\\Migrations\\20250226170344_UpdateOrdersTable.cs",
+              "RelativeToolTip": "BOOKSHOPINGCARTMVCUI\\Data\\Migrations\\20250226170344_UpdateOrdersTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T17:03:45.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "BOOKSHOPINGCARTMVCUI\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Controllers\\CartController.cs",
+              "RelativeToolTip": "BOOKSHOPINGCARTMVCUI\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T12:16:15.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Checkout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Views\\Cart\\Checkout.cshtml",
+              "RelativeDocumentMoniker": "BOOKSHOPINGCARTMVCUI\\Views\\Cart\\Checkout.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Views\\Cart\\Checkout.cshtml",
+              "RelativeToolTip": "BOOKSHOPINGCARTMVCUI\\Views\\Cart\\Checkout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-22T16:50:46.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CheckOutModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Models\\DTOs\\CheckOutModel.cs",
+              "RelativeDocumentMoniker": "BOOKSHOPINGCARTMVCUI\\Models\\DTOs\\CheckOutModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Models\\DTOs\\CheckOutModel.cs",
+              "RelativeToolTip": "BOOKSHOPINGCARTMVCUI\\Models\\DTOs\\CheckOutModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T14:45:39.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ShoppingCart.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Models\\ShoppingCart.cs",
+              "RelativeDocumentMoniker": "BOOKSHOPINGCARTMVCUI\\Models\\ShoppingCart.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Models\\ShoppingCart.cs",
+              "RelativeToolTip": "BOOKSHOPINGCARTMVCUI\\Models\\ShoppingCart.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwwA0AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T11:47:39.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ICartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Repositories\\ICartRepository.cs",
+              "RelativeDocumentMoniker": "BOOKSHOPINGCARTMVCUI\\Repositories\\ICartRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Repositories\\ICartRepository.cs",
+              "RelativeToolTip": "BOOKSHOPINGCARTMVCUI\\Repositories\\ICartRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T10:04:21.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UserOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Repositories\\UserOrderRepository.cs",
+              "RelativeDocumentMoniker": "BOOKSHOPINGCARTMVCUI\\Repositories\\UserOrderRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Repositories\\UserOrderRepository.cs",
+              "RelativeToolTip": "BOOKSHOPINGCARTMVCUI\\Repositories\\UserOrderRepository.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAA4wEIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T14:42:20.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "GetUserCart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Views\\Cart\\GetUserCart.cshtml",
+              "RelativeDocumentMoniker": "BOOKSHOPINGCARTMVCUI\\Views\\Cart\\GetUserCart.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Views\\Cart\\GetUserCart.cshtml",
+              "RelativeToolTip": "BOOKSHOPINGCARTMVCUI\\Views\\Cart\\GetUserCart.cshtml",
+              "ViewState": "AgIAACIAAAAAAAAAAIAwwDMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T08:58:06.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BOOKSHOPINGCARTMVCUI\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BOOKSHOPINGCARTMVCUI\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAhwBIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T16:32:18.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "StockDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Models\\DTOs\\StockDTO.cs",
+              "RelativeDocumentMoniker": "BOOKSHOPINGCARTMVCUI\\Models\\DTOs\\StockDTO.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Models\\DTOs\\StockDTO.cs",
+              "RelativeToolTip": "BOOKSHOPINGCARTMVCUI\\Models\\DTOs\\StockDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T06:56:16.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "StockDisplayModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Models\\DTOs\\StockDisplayModel.cs",
+              "RelativeDocumentMoniker": "BOOKSHOPINGCARTMVCUI\\Models\\DTOs\\StockDisplayModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Models\\DTOs\\StockDisplayModel.cs",
+              "RelativeToolTip": "BOOKSHOPINGCARTMVCUI\\Models\\DTOs\\StockDisplayModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T06:59:07.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "StockRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Repositories\\StockRepository.cs",
+              "RelativeDocumentMoniker": "BOOKSHOPINGCARTMVCUI\\Repositories\\StockRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Repositories\\StockRepository.cs",
+              "RelativeToolTip": "BOOKSHOPINGCARTMVCUI\\Repositories\\StockRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T07:00:45.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "StockController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Controllers\\StockController.cs",
+              "RelativeDocumentMoniker": "BOOKSHOPINGCARTMVCUI\\Controllers\\StockController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Controllers\\StockController.cs",
+              "RelativeToolTip": "BOOKSHOPINGCARTMVCUI\\Controllers\\StockController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAArwBQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T07:06:59.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "20250225061552_mig-stock-mgt.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Data\\Migrations\\20250225061552_mig-stock-mgt.cs",
+              "RelativeDocumentMoniker": "BOOKSHOPINGCARTMVCUI\\Data\\Migrations\\20250225061552_mig-stock-mgt.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Data\\Migrations\\20250225061552_mig-stock-mgt.cs",
+              "RelativeToolTip": "BOOKSHOPINGCARTMVCUI\\Data\\Migrations\\20250225061552_mig-stock-mgt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T06:15:54.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\appsettings.json",
+              "RelativeDocumentMoniker": "BOOKSHOPINGCARTMVCUI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\appsettings.json",
+              "RelativeToolTip": "BOOKSHOPINGCARTMVCUI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-14T06:40:30.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Stock.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Models\\Stock.cs",
+              "RelativeDocumentMoniker": "BOOKSHOPINGCARTMVCUI\\Models\\Stock.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Models\\Stock.cs",
+              "RelativeToolTip": "BOOKSHOPINGCARTMVCUI\\Models\\Stock.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwAIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T05:53:30.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "DbSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Data\\DbSeeder.cs",
+              "RelativeDocumentMoniker": "BOOKSHOPINGCARTMVCUI\\Data\\DbSeeder.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Data\\DbSeeder.cs",
+              "RelativeToolTip": "BOOKSHOPINGCARTMVCUI\\Data\\DbSeeder.cs",
+              "ViewState": "AgIAABcAAAAAUaR6D0UPwAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T12:35:40.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "Stock.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Views\\Stock.cs",
+              "RelativeDocumentMoniker": "BOOKSHOPINGCARTMVCUI\\Views\\Stock.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Views\\Stock.cs",
+              "RelativeToolTip": "BOOKSHOPINGCARTMVCUI\\Views\\Stock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T05:50:16.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "BOOKSHOPINGCARTMVCUI\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "BOOKSHOPINGCARTMVCUI\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-23T11:44:03.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Constants\\Roles.cs",
+              "RelativeDocumentMoniker": "BOOKSHOPINGCARTMVCUI\\Constants\\Roles.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Constants\\Roles.cs",
+              "RelativeToolTip": "BOOKSHOPINGCARTMVCUI\\Constants\\Roles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T12:02:47.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "BOOKSHOPINGCARTMVCUI\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\appsettings.Development.json",
+              "RelativeToolTip": "BOOKSHOPINGCARTMVCUI\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-24T11:43:27.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "UserOrders.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Views\\UserOrder\\UserOrders.cshtml",
+              "RelativeDocumentMoniker": "BOOKSHOPINGCARTMVCUI\\Views\\UserOrder\\UserOrders.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Views\\UserOrder\\UserOrders.cshtml",
+              "RelativeToolTip": "BOOKSHOPINGCARTMVCUI\\Views\\UserOrder\\UserOrders.cshtml",
+              "ViewState": "AgIAACgAAAAAAAAAAAApwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-22T06:08:12.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "GlobalUsing.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\GlobalUsing.cs",
+              "RelativeDocumentMoniker": "BOOKSHOPINGCARTMVCUI\\GlobalUsing.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\GlobalUsing.cs",
+              "RelativeToolTip": "BOOKSHOPINGCARTMVCUI\\GlobalUsing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T17:23:53.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "BOOKSHOPINGCARTMVCUI\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "BOOKSHOPINGCARTMVCUI\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T10:58:55.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "OrderDetailModalDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Models\\DTOs\\OrderDetailModalDTO.cs",
+              "RelativeDocumentMoniker": "BOOKSHOPINGCARTMVCUI\\Models\\DTOs\\OrderDetailModalDTO.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Models\\DTOs\\OrderDetailModalDTO.cs",
+              "RelativeToolTip": "BOOKSHOPINGCARTMVCUI\\Models\\DTOs\\OrderDetailModalDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T05:08:17.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "BookDisplayModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Models\\DTOs\\BookDisplayModel.cs",
+              "RelativeDocumentMoniker": "BOOKSHOPINGCARTMVCUI\\Models\\DTOs\\BookDisplayModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Models\\DTOs\\BookDisplayModel.cs",
+              "RelativeToolTip": "BOOKSHOPINGCARTMVCUI\\Models\\DTOs\\BookDisplayModel.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAD4vwkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T11:21:23.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "UpdateOrderStatus.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Views\\AdminOperations\\UpdateOrderStatus.cshtml",
+              "RelativeDocumentMoniker": "BOOKSHOPINGCARTMVCUI\\Views\\AdminOperations\\UpdateOrderStatus.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Views\\AdminOperations\\UpdateOrderStatus.cshtml",
+              "RelativeToolTip": "BOOKSHOPINGCARTMVCUI\\Views\\AdminOperations\\UpdateOrderStatus.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAApwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T05:25:41.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "_OrderDetailModal.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Views\\AdminOperations\\_OrderDetailModal.cshtml",
+              "RelativeDocumentMoniker": "BOOKSHOPINGCARTMVCUI\\Views\\AdminOperations\\_OrderDetailModal.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Views\\AdminOperations\\_OrderDetailModal.cshtml",
+              "RelativeToolTip": "BOOKSHOPINGCARTMVCUI\\Views\\AdminOperations\\_OrderDetailModal.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T05:08:57.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "IUserOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Repositories\\IUserOrderRepository.cs",
+              "RelativeDocumentMoniker": "BOOKSHOPINGCARTMVCUI\\Repositories\\IUserOrderRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Repositories\\IUserOrderRepository.cs",
+              "RelativeToolTip": "BOOKSHOPINGCARTMVCUI\\Repositories\\IUserOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T05:18:24.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "CartDetail.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Models\\CartDetail.cs",
+              "RelativeDocumentMoniker": "BOOKSHOPINGCARTMVCUI\\Models\\CartDetail.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Models\\CartDetail.cs",
+              "RelativeToolTip": "BOOKSHOPINGCARTMVCUI\\Models\\CartDetail.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T13:48:08.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "UpdateOrderStatusModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Models\\DTOs\\UpdateOrderStatusModel.cs",
+              "RelativeDocumentMoniker": "BOOKSHOPINGCARTMVCUI\\Models\\DTOs\\UpdateOrderStatusModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Models\\DTOs\\UpdateOrderStatusModel.cs",
+              "RelativeToolTip": "BOOKSHOPINGCARTMVCUI\\Models\\DTOs\\UpdateOrderStatusModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T05:15:31.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "BOOKSHOPINGCARTMVCUI\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Models\\Order.cs",
+              "RelativeToolTip": "BOOKSHOPINGCARTMVCUI\\Models\\Order.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwCMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T13:57:12.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "IHomeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Repositories\\IHomeRepository.cs",
+              "RelativeDocumentMoniker": "BOOKSHOPINGCARTMVCUI\\Repositories\\IHomeRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Repositories\\IHomeRepository.cs",
+              "RelativeToolTip": "BOOKSHOPINGCARTMVCUI\\Repositories\\IHomeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T07:17:32.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "PaymentMethods.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Constants\\PaymentMethods.cs",
+              "RelativeDocumentMoniker": "BOOKSHOPINGCARTMVCUI\\Constants\\PaymentMethods.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Constants\\PaymentMethods.cs",
+              "RelativeToolTip": "BOOKSHOPINGCARTMVCUI\\Constants\\PaymentMethods.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T14:42:39.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "OrderFailure.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Views\\Cart\\OrderFailure.cshtml",
+              "RelativeDocumentMoniker": "BOOKSHOPINGCARTMVCUI\\Views\\Cart\\OrderFailure.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Views\\Cart\\OrderFailure.cshtml",
+              "RelativeToolTip": "BOOKSHOPINGCARTMVCUI\\Views\\Cart\\OrderFailure.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-22T16:44:02.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "OrderSuccess.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Views\\Cart\\OrderSuccess.cshtml",
+              "RelativeDocumentMoniker": "BOOKSHOPINGCARTMVCUI\\Views\\Cart\\OrderSuccess.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Views\\Cart\\OrderSuccess.cshtml",
+              "RelativeToolTip": "BOOKSHOPINGCARTMVCUI\\Views\\Cart\\OrderSuccess.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-22T16:42:20.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "20250222150216_mig3.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Data\\Migrations\\20250222150216_mig3.cs",
+              "RelativeDocumentMoniker": "BOOKSHOPINGCARTMVCUI\\Data\\Migrations\\20250222150216_mig3.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Data\\Migrations\\20250222150216_mig3.cs",
+              "RelativeToolTip": "BOOKSHOPINGCARTMVCUI\\Data\\Migrations\\20250222150216_mig3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T15:02:16.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "20250221120534_xyz.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Data\\Migrations\\20250221120534_xyz.cs",
+              "RelativeDocumentMoniker": "BOOKSHOPINGCARTMVCUI\\Data\\Migrations\\20250221120534_xyz.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Data\\Migrations\\20250221120534_xyz.cs",
+              "RelativeToolTip": "BOOKSHOPINGCARTMVCUI\\Data\\Migrations\\20250221120534_xyz.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T14:18:38.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "UserOrderController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Controllers\\UserOrderController.cs",
+              "RelativeDocumentMoniker": "BOOKSHOPINGCARTMVCUI\\Controllers\\UserOrderController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Controllers\\UserOrderController.cs",
+              "RelativeToolTip": "BOOKSHOPINGCARTMVCUI\\Controllers\\UserOrderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T06:02:25.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "_ManageNav.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "RelativeDocumentMoniker": "BOOKSHOPINGCARTMVCUI\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "RelativeToolTip": "BOOKSHOPINGCARTMVCUI\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-22T10:54:40.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "20250214165648_added-tables.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Data\\Migrations\\20250214165648_added-tables.cs",
+              "RelativeDocumentMoniker": "BOOKSHOPINGCARTMVCUI\\Data\\Migrations\\20250214165648_added-tables.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Data\\Migrations\\20250214165648_added-tables.cs",
+              "RelativeToolTip": "BOOKSHOPINGCARTMVCUI\\Data\\Migrations\\20250214165648_added-tables.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T16:56:50.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "00000000000000_CreateIdentitySchema.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeDocumentMoniker": "BOOKSHOPINGCARTMVCUI\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeToolTip": "BOOKSHOPINGCARTMVCUI\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T14:18:21.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "20250215115528_added statuscode in orderstatus.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Data\\Migrations\\20250215115528_added statuscode in orderstatus.cs",
+              "RelativeDocumentMoniker": "BOOKSHOPINGCARTMVCUI\\Data\\Migrations\\20250215115528_added statuscode in orderstatus.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Data\\Migrations\\20250215115528_added statuscode in orderstatus.cs",
+              "RelativeToolTip": "BOOKSHOPINGCARTMVCUI\\Data\\Migrations\\20250215115528_added statuscode in orderstatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T11:55:30.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Models\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "BOOKSHOPINGCARTMVCUI\\Models\\OrderDetail.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Models\\OrderDetail.cs",
+              "RelativeToolTip": "BOOKSHOPINGCARTMVCUI\\Models\\OrderDetail.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAIAzwAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T14:24:42.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "20250217142618_add-authorname-to-book.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Data\\Migrations\\20250217142618_add-authorname-to-book.cs",
+              "RelativeDocumentMoniker": "BOOKSHOPINGCARTMVCUI\\Data\\Migrations\\20250217142618_add-authorname-to-book.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Data\\Migrations\\20250217142618_add-authorname-to-book.cs",
+              "RelativeToolTip": "BOOKSHOPINGCARTMVCUI\\Data\\Migrations\\20250217142618_add-authorname-to-book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T14:26:19.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "BOOKSHOPINGCARTMVCUI\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "BOOKSHOPINGCARTMVCUI\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAowIAAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T11:58:24.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "BOOKSHOPINGCARTMVCUI\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "BOOKSHOPINGCARTMVCUI\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-15T11:58:03.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Models\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "BOOKSHOPINGCARTMVCUI\\Models\\OrderStatus.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\Models\\OrderStatus.cs",
+              "RelativeToolTip": "BOOKSHOPINGCARTMVCUI\\Models\\OrderStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T13:58:20.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "BOOKSHOPINGCARTMVCUI\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BOOKSHOPINGCARTMVCUI\\BOOKSHOPINGCARTMVCUI\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "BOOKSHOPINGCARTMVCUI\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-02-14T06:56:02.68Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
